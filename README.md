@@ -1,4 +1,4 @@
-# Bella_vita_clone
+# Bella vita Organic clone
 
 ## About Our Website
 This a clone website of bella vita Oraganic.
